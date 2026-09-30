@@ -3,15 +3,15 @@
 
 ## Как это работает
 Mail.ru
-   ↓
+→
 IMAP
-   ↓
+→
 Python
-   ↓
+→
 поиск 6-значного кода
-   ↓
+→
 Telegram Bot API
-   ↓
+→
 Telegram
 
 ## Настройка
